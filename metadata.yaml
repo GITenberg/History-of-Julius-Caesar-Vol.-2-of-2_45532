@@ -1,0 +1,33 @@
+_repo: History-of-Julius-Caesar-Vol.-2-of-2_45532
+_version: 0.1.0
+alternative_title: History of Julius Caesar, Vol. 2 of 2
+covers:
+- cover_type: archival
+  image_path: 45532-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Napoleon III, Emperor of the French
+    aliases:
+    - Bonaparte, Charles-Louis-Napoléon, Emperor of the French
+    - Bonaparte, Louis-Napoléon, Emperor of the French
+    - Louis-Napoléon, Emperor of the French
+    birthdate: 1808
+    deathdate: 1873
+    gutenberg_agent_id: '43296'
+    url: http://www.gutenberg.org/2009/agents/43296
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2014-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caesar, Julius'
+- !lcc 'DG'
+- !lcsh 'Rome -- History -- Republic, 265-30 B.C.'
+title: History of Julius Cæsar, Vol. 2 of 2
+url: http://www.gutenberg.org/ebooks/45532
